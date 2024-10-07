@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/3f8ee42c-7201-4f62-9dd4-908ff5acd8a9/resourceGroups/pms-api-group/providers/Microsoft.Web/sites/azuretestdeployangular",
+    "appService.deploySubpath": "dist/azuretestdeployangular/browser"
+}
